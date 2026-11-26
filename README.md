@@ -1,8 +1,8 @@
 # makefun-oneliner-roast-operator
 
 [![make.fun](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
-[![make.fun rank](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
-[![make.fun reward](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![make.fun rank](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/MusasProhibidas/makefun-oneliner-roast-operator/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![make.fun reward](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/MusasProhibidas/makefun-oneliner-roast-operator/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
 
 A one-line entry for the make.fun bounty
 [Roast Your Own Operator in One Line](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1) ($5).
